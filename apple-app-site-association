@@ -1,1 +1,11 @@
-{"activitycontinuation":{"apps":["93T9LB5N8B.ar.delorean.letgo"]}}
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "93T9LB5N8B.ar.delorean.letgo",
+                "paths": [ "*"]
+            }
+        ]
+    }
+}
