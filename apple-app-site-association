@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "93T9LB5N8B.ar.delorean.letgo",
-                "paths": [ "*"]
+                "paths": ["/","/*"]
             }
         ]
     }
