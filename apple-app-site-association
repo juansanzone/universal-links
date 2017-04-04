@@ -1,15 +1,1 @@
-{
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "93T9LB5N8B.ar.delorean.letgo",
-                "paths": ["*"]
-            },
-            {
-                "appID": "93T9LB5N8B.com.olx.hn",
-                "paths": ["*"]
-            }
-        ]
-    }
-}
+
